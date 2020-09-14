@@ -26,3 +26,8 @@ $ export GST_PLUGIN_PATH=$GST_PLUGIN_PATH:$NNST_ROOT/lib/gstreamer-1.0
 $ ./nnstreamer_example_object_detection_tflite_2cam sender   IP PORT1 /dev/video0 PORT2 /dev/video1
 $ ./nnstreamer_example_object_detection_tflite_2cam receiver IP PORT1 PORT2
 ```
+
+### Demo
+![](./phone.gif)
+![](./ball.gif)
+![](./giveme.gif)
